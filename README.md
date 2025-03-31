@@ -1,2 +1,2 @@
 # des
-My implementation of the Data Encryption Standard algorithm (DES)
+Reference article: https://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm
